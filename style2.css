@@ -1,0 +1,277 @@
+body
+
+{
+	background-color: #36383E;
+	
+}
+
+#titulo
+{
+	font-family: impact;
+	color: #EBD136;
+	text-align: center;
+	font-size: 32px;
+	letter-spacing: 20px;
+	font-style: italic;
+	background-color: #36383E;
+}
+
+#subtitulo
+{
+	font-family: verdana;
+	color: white;
+	text-align: center;
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+#sinopsisabove
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 300px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisfight
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 220px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisbaby
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 220px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisvanilla
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 220px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisclover
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 220px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisdesp
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 220px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisdrive
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 220px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#sinopsisscar
+{
+	color: yellow;
+	background-color: #36383E;
+	height: 250px;
+	width: 50%;
+	border-color: black;
+	border-radius: 20px/20px;
+	border-style: solid;
+	padding: 10px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: left;
+	line-height: 2;
+	
+}
+
+#volver
+{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: verdana;
+	text-align: center;
+}
+
+#volver2
+{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: verdana;
+	text-align: center;
+}
+
+#volver3
+{
+	color: blue;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: verdana;
+	text-align: center;
+}
+
+
+#trailer
+{
+	text-align: left;
+	color: white;
+	
+}
+
+#textotrailer
+{
+	color: yellow;
+	background-color: rgba (235, 209, 54, 0);
+	height: 40px;
+	width: 50%;
+	padding: 15px;
+	float: left;
+	position: relative;
+	font-family: verdana;
+	text-align: center;
+}
+
+.actores
+{
+	color: white;
+	background-color: black;
+	float: right;
+	position: relative;
+	margin-top: -750px;
+
+}
+
+.actores-fight
+{
+	color: white;
+	background-color: black;
+	float: right;
+	position: relative;
+	margin-top: -650px;
+
+}
+
+.actores-vanilla
+{
+	color: white;
+	background-color: black;
+	float: right;
+	position: relative;
+	margin-top: -650px;
+
+}
+
+.actores-clover
+{
+	color: white;
+	background-color: black;
+	float: right;
+	position: relative;
+	margin-top: -650px;
+
+}
+
+.actores-tabla
+{
+	color: white;
+}
+
+#feedback
+{
+	color: white;
+	text-align: left;
+	font-size: 15px;
+	font-family: verdana;
+	height: 355px;
+	width: 50%;
+	padding: 10px;
+	float: left;
+	position: relative;
+	
+}
